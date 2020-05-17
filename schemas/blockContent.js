@@ -73,6 +73,11 @@ export default {
                 name: 'slug',
                 title: 'Slug',
                 type: 'string'
+              },
+              {
+                name: 'offscreen',
+                title: 'Reveal from offscreen',
+                type: 'boolean'
               }
             ]
           },
