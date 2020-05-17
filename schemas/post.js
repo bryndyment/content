@@ -53,28 +53,33 @@ export default {
       type: 'boolean'
     },
     {
+      name: 'carousel',
+      title: 'Body – Carousel',
+      type: 'carousel'
+    },
+    {
       name: 'body',
-      title: 'Body',
+      title: 'Body – Content',
       type: 'blockContent'
     },
     {
       name: 'html',
-      title: 'HTML',
+      title: 'Body – HTML',
       type: 'text'
     },
     {
       name: 'bodyTwo',
-      title: 'Body Two',
+      title: 'Body – Content – Two',
       type: 'blockContent'
     },
     {
       name: 'htmlTwo',
-      title: 'HTML Two',
+      title: 'Body – HTML – Two',
       type: 'text'
     },
     {
       name: 'bodyThree',
-      title: 'Body Three',
+      title: 'Body – Content – Three',
       type: 'blockContent'
     },
     {
