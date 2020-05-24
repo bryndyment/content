@@ -11,9 +11,9 @@ export default {
             title: 'HOO LOGIC'
           },
           {
-            apiId: '1ab3afc1-1e76-419f-b3f5-f72f031f8666',
-            buildHookId: '5eaf81d8e83a65e4d288c5ed',
-            name: 'practical-mccarthy-ee95bf',
+            apiId: 'f986c359-0c78-4afb-a17d-c06cc8045741',
+            buildHookId: '5eca3c4640c1623eb75debed',
+            name: 'iksdesign',
             title: 'i.k.s design'
           }
         ]
