@@ -1,5 +1,4 @@
 {
   "automerge": true,
-  "baseBranches": ["renovate"],
-  "schedule": ["before 3am on Monday"]
+  "baseBranches": ["dependencies"]
 }
