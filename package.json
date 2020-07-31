@@ -10,7 +10,7 @@
     "@sanity/default-login": "1.149.18",
     "@sanity/desk-tool": "1.149.18",
     "@sanity/vision": "1.149.16",
-    "jest": "26.2.1",
+    "jest": "26.2.2",
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
