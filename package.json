@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@sanity/base": "2.0.1",
-    "@sanity/components": "1.150.8",
+    "@sanity/components": "2.0.1",
     "@sanity/core": "2.0.1",
     "@sanity/dashboard": "1.150.8",
     "@sanity/default-layout": "1.150.8",
