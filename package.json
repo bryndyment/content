@@ -9,7 +9,7 @@
     "@sanity/default-layout": "1.150.8",
     "@sanity/default-login": "2.0.1",
     "@sanity/desk-tool": "1.150.8",
-    "@sanity/vision": "1.150.6",
+    "@sanity/vision": "2.0.1",
     "jest": "26.5.2",
     "prop-types": "15.7.2",
     "react": "16.13.1",
