@@ -5,7 +5,7 @@
     "@sanity/base": "2.0.1",
     "@sanity/components": "1.150.8",
     "@sanity/core": "2.0.1",
-    "@sanity/dashboard": "1.150.8",
+    "@sanity/dashboard": "2.0.1",
     "@sanity/default-layout": "1.150.8",
     "@sanity/default-login": "1.150.1",
     "@sanity/desk-tool": "1.150.8",
