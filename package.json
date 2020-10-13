@@ -17,7 +17,7 @@
     "sanity-plugin-dashboard-widget-netlify": "1.0.1"
   },
   "devDependencies": {
-    "@sanity/cli": "2.0.1"
+    "@sanity/cli": "2.0.3"
   },
   "scripts": {
     "build": "sanity build",
