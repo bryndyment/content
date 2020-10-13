@@ -8,7 +8,7 @@
     "@sanity/dashboard": "2.0.3",
     "@sanity/default-layout": "2.0.2",
     "@sanity/default-login": "2.0.1",
-    "@sanity/desk-tool": "2.0.2",
+    "@sanity/desk-tool": "2.0.4",
     "@sanity/vision": "2.0.1",
     "jest": "26.5.3",
     "prop-types": "15.7.2",
