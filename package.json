@@ -13,7 +13,7 @@
     "jest": "26.5.3",
     "prop-types": "15.7.2",
     "react": "16.14.0",
-    "react-dom": "16.13.1",
+    "react-dom": "16.14.0",
     "sanity-plugin-dashboard-widget-netlify": "1.0.1"
   },
   "devDependencies": {
