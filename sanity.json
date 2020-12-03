@@ -1,7 +1,8 @@
 {
   "root": true,
   "api": {
-    "dataset": "production"
+    "dataset": "production",
+    "projectId": "w9bqr9i3"
   },
   "project": {
     "name": "content"
