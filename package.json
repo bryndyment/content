@@ -2,7 +2,7 @@
   "name": "content.hoologic",
   "version": "1.0.0",
   "dependencies": {
-    "@sanity/base": "2.1.0",
+    "@sanity/base": "2.1.1",
     "@sanity/components": "2.1.0",
     "@sanity/core": "2.1.0",
     "@sanity/dashboard": "2.1.0",
