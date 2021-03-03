@@ -1,4 +1,7 @@
 {
+  "extends": ["config:base"],
   "automerge": true,
-  "baseBranches": ["dependencies"]
+  "major": {
+    "automerge": false
+  }
 }
